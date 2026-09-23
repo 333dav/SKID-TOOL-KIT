@@ -18,7 +18,7 @@ Choose the instructions based on your operating system:
 
 1. **Download the project** or clone the repository:
    ```cmd
-   git clone https://github.com/SKID-TOOL-KIT.git
+   git clone https://github.com/333dav/SKID-TOOL-KIT.git
    cd SKID-TOOL-KIT
    ```
 
